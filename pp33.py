@@ -10,7 +10,7 @@ print(f"Simple Interest: {simple_interest:.2f}")
  # Compound Interest Calculation
 
 principal = float(input("Enter the principal amount: "))
-rate = float(input("Enter the rate of interest (% per annum): "))
+rate = float(input("Enter the rate of interest (% per annum): ")) 
 time = float(input("Enter the time (in years): "))
 n = int(input("Enter number of times interest applied per year: "))
 
